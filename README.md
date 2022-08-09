@@ -11,3 +11,9 @@
 docker-compose up --build
 ```
 
+## Parando todos os containers:
+```sh
+docker kill $(docker ps -q)
+```
+## Usando Gmail SMTP Server para enviar Email no Laravel [link](https://medium.com/graymatrix/using-gmail-smtp-server-to-send-email-in-laravel-91c0800f966)
+
