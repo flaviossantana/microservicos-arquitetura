@@ -17,3 +17,4 @@ docker kill $(docker ps -q)
 ```
 ## Usando Gmail SMTP Server para enviar Email no Laravel [link](https://medium.com/graymatrix/using-gmail-smtp-server-to-send-email-in-laravel-91c0800f966)
 
+## The Twelve Factor App: [link](https://12factor.net/pt_br/)    
